@@ -1,3 +1,25 @@
+## for linux home 
+app/
+examples.desktop
+
+.Xauthority
+.bash_*
+.*_history
+*.swp
+*.bak
+
+.vscode-server/
+.ipython/
+.jupyter/
+.local/
+.mozilla/
+.cache/
+.conda/
+.dbus/
+.ssh/
+
+
+###########################
 # Build and Release Folders
 bin-debug/
 bin-release/
